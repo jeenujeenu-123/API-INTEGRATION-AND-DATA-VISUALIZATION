@@ -1,11 +1,12 @@
 # API Integration and Data Visualization
 
 ## Developer Information
-**Name:** shaik burujula jeevanbi 
+**Name:** Shaik Burujula Jeevanbi 
 **Company:** CODTECH IT SOLUTIONS  
 **ID:** CTO6DL935  
 **Domain:** PYTHON PROGRAMMING  
-**Duration:** may 5th,2025 to june 20th,2025 
+**Duration:** may 5th,2025 to june 20th,2025 [6 weeks]
+**Mentor :** Neela Santhosh Kumar
 
 ---
 
