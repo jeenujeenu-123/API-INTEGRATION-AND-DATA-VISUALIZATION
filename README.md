@@ -1,9 +1,8 @@
 # API Integration and Data Visualization
 
-## Developer Information
-**Name:** Shaik Burujula Jeevanbi 
+**Company:** CODTECH IT SOLUTIONS
 
-**Company:** CODTECH IT SOLUTIONS  
+**Name:** Shaik Burujula Jeevanbi 
 
 **ID:** CTO6DL935 
 
